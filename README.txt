@@ -1,4 +1,5 @@
 For you to use this macro install AutoHotKey.
+LINK: https://www.autohotkey.com
 After you have installed it, close AutoHotKey and open the file FischMacroV12.
 When opened and ingame, u can click "P" so the macro starts. 
 You can always stop the macro by pressing "O" and "M" to close the macro.
